@@ -1,0 +1,21 @@
+# Required packages for Aadhaar Analysis Dashboard
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine learning (for forecasting)
+scikit-learn>=1.3.0
+
+# Web dashboard
+streamlit>=1.28.0
+
+# Additional utilities
+warnings
+glob
+datetime
