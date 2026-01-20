@@ -1,4 +1,6 @@
-📊 AADHAAR ANALYSIS - COMPLETE PROJECT DELIVERABLES
+<img width="1600" height="150" alt="image" src="https://github.com/user-attachments/assets/010c26c6-699a-4707-b62b-d1e7f7cd10e4" />
+
+AADHAAR ANALYSIS - COMPLETE PROJECT DELIVERABLES
 
 ## 🎯 PROJECT SUMMARY
 
